@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NetflixLayout</string>
+    <string name="imagem_fundo">imagem_fundo</string>
+    <string name="logo_netflix">logo_netflix</string>
+    <string name="series">Séries</string>
+    <string name="filmes">Filmes</string>
+    <string name="minha_lista">Minha lista</string>
+    <string name="the_flash_logo" translatable="false">the_flash_logo</string>
+    <string name="acao">Ação</string>
+    <string name="assistir">Assistir</string>
+    <string name="detalhes">DETALHES</string>
+    <string name="minha_lista2">MINHA LISTA</string>
+    <string name="lancamento">Lançamento</string>
+    <string name="you_poster" translatable="false">you_poster</string>
+    <string name="mashle_poster" translatable="false">mashle_poster</string>
+    <string name="maze_runner_poster" translatable="false">maze_runner_poster</string>
+    <string name="dev_name" translatable="false">GUILHERME VILLAS BOAS BRAZ</string>
+</resources>

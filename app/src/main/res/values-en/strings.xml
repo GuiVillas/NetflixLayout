@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetflixLayout</string>
+    <string name="imagem_fundo">background_imagem</string>
+    <string name="logo_netflix">netflix_logo</string>
+    <string name="series">Series</string>
+    <string name="filmes">Movies</string>
+    <string name="acao">Action</string>
+    <string name="assistir">Watch</string>
+    <string name="minha_lista">My list</string>
+    <string name="detalhes">DETAILS</string>
+    <string name="minha_lista2">MY LIST</string>
+    <string name="lancamento">New</string>
+</resources>

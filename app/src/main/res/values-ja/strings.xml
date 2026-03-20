@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Netflixレイアウト</string>
+    <string name="imagem_fundo">背景画像</string>
+    <string name="logo_netflix">Netflixのロゴ</string>
+    <string name="series">マイリスト</string>
+    <string name="filmes">映画</string>
+    <string name="acao">"お 見ます "</string>
+    <string name="assistir">参加するには</string>
+    <string name="minha_lista">私のリスト</string>
+    <string name="detalhes">詳細</string>
+    <string name="minha_lista2">私のリスト</string>
+    <string name="lancamento">新しい</string>
+</resources>
