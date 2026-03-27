@@ -4,10 +4,7 @@
         <item name="colorPrimary">@color/primaria</item>
         <item name="colorPrimaryVariant">@color/primaria_variacao</item>
         <item name="colorSecondary">@color/secundaria</item>
-        <item name="colorTertiary">@color/preto</item>
-
-        <item name="android:windowBackground">@color/fundo</item>
-
+        <item name="android:windowBackground">@color/branco</item>
         <!--cor da barra de Status -->
         <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
     </style>
