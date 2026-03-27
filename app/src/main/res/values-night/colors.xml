@@ -8,7 +8,7 @@
     <color name="primaria">#E70001</color>
     <color name="primaria_variacao">#AA0407</color>
     <color name="secundaria">#f70000</color>
-    <color name="fundo">@color/branco</color>
-    <color name="cor_texto">@color/preto</color>
+    <color name="fundo">#171417</color>
+    <color name="cor_texto">@color/branco</color>
     <color name="menu_navegacao">@color/branco</color>
 </resources>

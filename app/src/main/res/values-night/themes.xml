@@ -3,5 +3,12 @@
     <style name="Base.Theme.NetflixLayout" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/primaria</item>
+        <item name="colorPrimaryVariant">@color/primaria_variacao</item>
+        <item name="colorSecondary">@color/secundaria</item>
+        <item name="colorTertiary">@color/branco</item>
+        <item name="android:windowBackground">@color/fundo</item>
+        <!--cor da barra de Status -->
+        <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
     </style>
 </resources>
